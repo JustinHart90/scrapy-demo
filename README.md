@@ -1,5 +1,5 @@
 # Scrapy Demo
-This repo demonstrates the basic capabilities of Scrapy an python based web-scraping package
+This repo demonstrates the basic capabilities of Scrapy an python based web-scraping package.
 
 ## Initial Scrapy Set Up:
 1. Create a virtual envirnoment (this will install dependencies specific to this project and not to our machine)
