@@ -1,4 +1,5 @@
 # Scrapy Demo
+
 This repo demonstrates the basic capabilities of Scrapy an python based web-scraping package
 
 ## Initial Scrapy Set Up:
