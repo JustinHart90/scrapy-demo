@@ -1,23 +1,23 @@
-#Scrapy Demo
+# Scrapy Demo
 This repo demonstrates the basic capabilities of Scrapy an python based web-scraping package
 
-##Initial Scrapy Set Up:
+## Initial Scrapy Set Up:
 1. Create a virtual envirnoment (this will install dependencies specific to this project and not to our machine)
   * `virtualenv env`
 
-1. Install Scrapy
+2. Install Scrapy
   * `pip install scrapy==1.0.3`
 
-1. Start new project
+3. Start new project
   * `scrapy startproject <project name>`
 
-1. Cd into project
+4. Cd into project
   * `cd <project name>`
 
-1. Run spider generator
+5. Run spider generator
   * `scrapy genspider <spider name> <spider url>`
 
-1. Define what we are looking for in items.py `scrapy_demo/scrapy_demo/items.py`
+6. Define what we are looking for in items.py `scrapy_demo/scrapy_demo/items.py`
 ```python
 import scrapy
 
